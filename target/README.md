@@ -1,0 +1,3 @@
+- The D:\Learn\keycloak\keycloakify-starter\build_keycloak\target\keycloakify-starter-keycloak-theme-5.2.0.jar is to be used in Keycloak 23 and up.  
+- The D:\Learn\keycloak\keycloakify-starter\build_keycloak\target\retrocompat-keycloakify-starter-keycloak-theme-5.2.0.jar is to be used in Keycloak 22 and below.
+  Note that Keycloak 22 is only supported for login and email theme but not for account themes.  
